@@ -20,7 +20,7 @@ Visualize the odk collect spreadsheet into a web map leafletjs
 ---
 
 ## Example
-> [https://anshori.github.io/Leaflet-ODK-Spreadsheet](https://anshori.github.io/Leaflet-ODK-Spreadsheet)
+> [https://unsorry.net/git/leaflet-odk-spreadsheet/](https://unsorry.net/git/leaflet-odk-spreadsheet/)
 
 ---
 
